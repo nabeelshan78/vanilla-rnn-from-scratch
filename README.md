@@ -1,5 +1,10 @@
 # Vanilla RNN from Scratch 🧠
 
+<p align="center">
+  <img src="./rnn_image.png" alt="RNN" width="700"/>
+</p>
+
+
 This project implements a character-level Recurrent Neural Network (RNN) **entirely from scratch using only NumPy**. It's a deep dive into the foundational mechanics of RNNs, demonstrating how these networks operate at their core without relying on high-level deep learning libraries like TensorFlow or PyTorch.
 
 ---
