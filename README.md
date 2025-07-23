@@ -84,7 +84,7 @@ Aspiring AI/ML Engineer | AI/ML Enthusiast
 * [GitHub](https://github.com/nabeelshan78)
 
 -   Currently focused on mastering RNNs, LSTM, GRUs, and other Deep Learning architectures through hands-on work.
--   Actively seeking collaboration on AI/ML projects or research opportunities, and aiming for fully-funded Master's programs in AI/ML.
+-   Actively seeking collaboration on AI/ML projects or research opportunities.
 
 ---
 
